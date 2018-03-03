@@ -16,4 +16,9 @@ should be copied into the /ttfonts/ folder in your mPDF installation.
 Others have chosen to continue development of mPDF - and they do so with my blessing.
 One of these is at https://github.com/mpdf/mpdf
 
+Support mPDF by making a small donation?
+If you find mPDF helpful, please consider making a donation in recognition of the hours of work it took me 
+to develop mPDF. A link to make a PayPal donation is at: http://www.mpdf1.com
+Thank you. 
+
 Ian N. Back
